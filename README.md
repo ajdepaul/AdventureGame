@@ -1,5 +1,6 @@
 # Customizable Adventure Game v1.2
-Created by:Anthony DePaul
+Created by: Anthony DePaul
+
 Music by: Jordan Friedland
 
 A customizable adventure game! Make sure the game_resources folder is in the same folder as the AdventureGame.jar. Run AdevntureGame.jar to play. All the images can be changed within the game_resources folder to make your own game. There are other README files if you need help (be sure to read the README.html files unless you're viewing this from GitHub).
